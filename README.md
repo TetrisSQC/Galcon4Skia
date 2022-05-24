@@ -9,3 +9,9 @@ The game uses Firemonkey and Skia4Delphi in order to render the game. For audio 
 
 A short introduction video can be found under the following url:
 https://www.youtube.com/watch?v=JJzi5RxxPok
+
+The pixel shader i used can be found here:
+https://www.shadertoy.com/view/XlfGRj
+
+The music is from: 
+https://modarchive.org/
